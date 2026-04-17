@@ -38,7 +38,7 @@ Key steps performed:
 
 ---
 
-Screenshot 2026-04-06 002805 - Copy
+<img width="1332" height="696" alt="Screenshot 2026-04-06 002805 - Copy" src="https://github.com/user-attachments/assets/10e28b51-2367-4d64-b239-758a64c17d0e" />
 
 ---
 
